@@ -56,3 +56,5 @@ public class Viewİnterface {
         this.controller = controller;
     }
 }
+//haptı şaptı kaptı kaçtı
+
